@@ -39,7 +39,7 @@ Contributing a translation is easy: text.cpp contains all of the text strings th
 ## Compiling
 Before compiling Textractor, you need Qt version 5.13 and Visual Studio with CMake support.
 ### qt 5.13 download
-https://download.qt.io/archive/qt/5.13/5.13.0/
+https://download.qt.io/archive/qt/5.13/5.13.0/  
 Clone Textractor's source and initialize submodules with `git clone https://github.com/Artikash/Textractor.git` and `git submodule update --init`.
 You should then be able to just open the source folder in Visual Studio and build.
 
